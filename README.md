@@ -4,8 +4,8 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/Mohammed-401-advanced-javascript/data-structures-and-algorithms/pull/1)
-- [ci/cd]() (GitHub Actions)
+- [submission PR](https://github.com/Mohammed-401-advanced-javascript/Lab-15/pull/1)
+- [ci/cd](https://github.com/Mohammed-401-advanced-javascript/Lab-15/actions) (GitHub Actions)
 
 ### Setup
 npm i jest eslint
